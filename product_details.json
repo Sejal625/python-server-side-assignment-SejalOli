@@ -1,0 +1,8 @@
+[
+    {"Name":"Iphone" , "Price":2000000 , "Quantity":10},
+    {"Name":"Laptop" , "Price":1500000 , "Quantity":15},
+    {"Name":"Samsung" , "Price":900000 , "Quantity":7},
+    {"Name":"Poco" , "Price":15000 , "Quantity":20},
+    {"Name":"Vivo" , "Price":40000 , "Quantity":10}
+
+]
